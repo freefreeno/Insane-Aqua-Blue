@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment=Insane Style
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;
+Name=Insane-Aqua-Blue
+
+Type=Service
+
+X-KDE-PluginInfo-Author=Josh Freeno
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Insane-Aqua-Blue
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/freefreeno/Insane-KDE
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1307973,kns://plasma-themes.knsrc/api.kde-look.org/1307974,kns://icons.knsrc/api.kde-look.org/1243493
